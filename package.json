@@ -1,5 +1,5 @@
 {
-  "name": "danger",
+  "name": "@dnlowman/danger",
   "version": "7.0.2",
   "description": "Unit tests for Team Culture",
   "main": "distribution/danger.js",
